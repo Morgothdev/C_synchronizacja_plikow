@@ -1,0 +1,480 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="LibreOffice 3.5  (Linux)">
+	<META NAME="AUTHOR" CONTENT="sidknot ">
+	<META NAME="CREATED" CONTENT="20110617;11415200">
+	<META NAME="CHANGEDBY" CONTENT="Mateusz ">
+	<META NAME="CHANGED" CONTENT="20130623;18342400">
+	<STYLE TYPE="text/css">
+	<!--
+		@page { size: 21cm 29.7cm; margin: 2cm }
+		P { margin-bottom: 0.21cm }
+		H3 { margin-bottom: 0.21cm; page-break-after: avoid }
+		H3.western { font-family: "LM Roman 12"; font-size: 14pt; font-weight: bold }
+		H3.cjk { font-family: "WenQuanYi Micro Hei"; font-size: 14pt; font-weight: bold }
+		H3.ctl { font-family: "Lohit Hindi"; font-size: 14pt; font-weight: bold }
+		H1 { margin-bottom: 0.21cm; page-break-after: avoid }
+		H1.western { font-family: "LM Roman 12"; font-size: 18pt; font-style: normal; font-weight: bold }
+		H1.cjk { font-family: "WenQuanYi Micro Hei"; font-size: 18pt; font-style: normal; font-weight: bold }
+		H1.ctl { font-family: "Lohit Hindi"; font-size: 18pt; font-style: normal; font-weight: bold }
+		H2 { margin-left: 2.5cm; text-indent: -1.02cm; margin-top: 0cm; margin-bottom: 0cm; page-break-after: avoid }
+		H2.western { font-family: "LM Roman 12"; font-size: 16pt; font-style: normal; font-weight: bold }
+		H2.cjk { font-family: "WenQuanYi Micro Hei"; font-size: 16pt; font-style: normal; font-weight: bold }
+		H2.ctl { font-family: "Lohit Hindi"; font-size: 16pt; font-style: normal; font-weight: bold }
+		A:link { color: #000080; so-language: zxx; text-decoration: underline }
+		A:visited { color: #800000; so-language: zxx; text-decoration: underline }
+		STRONG { font-weight: bold }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="pl-PL" LINK="#000080" VLINK="#800000" DIR="LTR">
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=6 STYLE="font-size: 22pt"><B>Akademia
+Górniczo-Hutnicza</B></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm; font-weight: normal"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=4 STYLE="font-size: 16pt">Wydział
+Informatyki, Elektroniki i Telekomunikacji</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><IMG SRC="dokumentacja_html_html_me96a935.png" NAME="Obraz 0" ALIGN=BOTTOM WIDTH=125 HEIGHT=244 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=4><B>KATEDRA
+INFORMATYKI</B></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><STRONG><SPAN STYLE="font-variant: normal"><FONT COLOR="#000000"><FONT FACE="Arial"><FONT SIZE=6 STYLE="font-size: 22pt"><SPAN STYLE="font-style: normal"><B>Program
+do tworzenia kopii zapasowych na wzór Dropboxa</B></SPAN></FONT></FONT></FONT></SPAN></STRONG></P>
+<P ALIGN=CENTER><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><FONT COLOR="#000000">	<FONT FACE="LM Roman 12"><FONT SIZE=4><B>Kierunek,
+rok studiów:</B></FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12">		<FONT SIZE=4>Informatyka,
+rok II</FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12">	<FONT SIZE=4><B>Przedmiot:</B></FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=4>		Systemy
+Operacyjne</FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=4>	<B>Prowadzący:</B></FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=4>		dr
+inż. Sławomir Bieniasz</FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=4>	<B>Autor:</B></FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=4>		Mateusz
+Jaje</FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><BR>
+</P>
+<DIV ID="Spis treści1" DIR="LTR">
+	<DIV ID="Spis treści1_Head" DIR="LTR">
+		<P STYLE="margin-bottom: 0cm; text-transform: uppercase; page-break-after: avoid">
+		<FONT FACE="LM Roman 12"><FONT SIZE=4 STYLE="font-size: 16pt"><I><B>Spis
+		treści</B></I></FONT></FONT></P>
+	</DIV>
+	<P STYLE="margin-bottom: 0cm"><FONT FACE="LM Roman 12">1. Tematyka i
+	opis projektu	3</FONT></P>
+	<P STYLE="margin-left: 0.5cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">1.1
+	Polecenie	3</FONT></P>
+	<P STYLE="margin-left: 0.5cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">1.2
+	Opis zagadnień	3</FONT></P>
+	<P STYLE="margin-left: 0.5cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">1.3
+	Implementacja	3</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">1.3.1
+	Serwer	3</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">1.3.1
+	Klient	3</FONT></P>
+	<P STYLE="margin-bottom: 0cm"><FONT FACE="LM Roman 12">2.
+	Technologie i biblioteki	3</FONT></P>
+	<P STYLE="margin-left: 0.5cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">2.1
+	Komunikacja	3</FONT></P>
+	<P STYLE="margin-left: 0.5cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">2.2
+	Wielowątkowość	4</FONT></P>
+	<P STYLE="margin-left: 0.5cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">2.3
+	Synchronizacja	4</FONT></P>
+	<P STYLE="margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.
+	Szczegółowy opis procedur	4</FONT></P>
+	<P STYLE="margin-left: 0.5cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.1
+	Serwer	4</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.1.1
+	prepare_data	4</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.1.2
+	parse_arguments	4</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.1.3
+	set_work_directory	4</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.1.4
+	create_and_connect_socket	4</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.1.5
+	create_connection	4</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.1.6
+	connection_thread	5</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.1.7
+	check_file	5</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.1.8
+	synchronize_with_client	5</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.1.9
+	get_file	5</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.1.10
+	get_file	5</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.1.11
+	give_file	6</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.1.12
+	receive_file	6</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.1.13
+	send_file	6</FONT></P>
+	<P STYLE="margin-left: 0.5cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.2
+	Klient	6</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.2.1
+	prepare_data	6</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.2.2
+	parse_arguments	6</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.2.3
+	set_work_directory	6</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.2.4
+	create_and_connect_socket	6</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.2.6
+	synchronize	6</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.2.6
+	synchronize_and_send_local_directory	7</FONT></P>
+	<P STYLE="margin-left: 1cm; margin-bottom: 0cm"><FONT FACE="LM Roman 12">3.2.7
+	synchronize_and_download_virtual_directory	7</FONT></P>
+	<P STYLE="margin-bottom: 0cm"><FONT FACE="LM Roman 12">4.
+	Uruchomienie	7</FONT></P>
+	<P STYLE="margin-bottom: 0cm"><FONT FACE="LM Roman 12">5.
+	Bibliografia	8</FONT></P>
+</DIV>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><BR>
+</P>
+<H1 CLASS="western"><FONT COLOR="#000000">1. Tematyka i opis projektu</FONT></H1>
+<H2 CLASS="western"><FONT COLOR="#000000">1.1 Polecenie</FONT></H2>
+<P><FONT COLOR="#000000">	<SPAN STYLE="font-variant: normal"><FONT FACE="LM Roman 12"><FONT SIZE=3><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">Program
+kliencki powinien monitorować zadany folder i synchronizować
+zawartość z serwerem, a także pobierać zmiany wysłane przez inne
+programy klienckie na serwer. Serwer powinien tworzyć wersje
+zmienionych plików tak, aby można było cofnąć zmiany w pliku do
+wybranej wersji z zadanego dnia.</SPAN></SPAN></FONT></FONT></SPAN></FONT></P>
+<H2 CLASS="western" STYLE="font-style: normal"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=4 STYLE="font-size: 16pt">1.2
+Opis zagadnień</FONT></FONT></FONT></H2>
+<P><FONT COLOR="#000000">	<FONT FACE="LM Roman 12">W ramach projektu
+stworzono aplikację, która umożliwia synchronizację plików z
+aplikacji klienckich z serwerem oraz zachowywanie historii zmian,tak,
+że możliwe może być cofanie zmian do zadanej wersji.</FONT></FONT></P>
+<H2 CLASS="western"><FONT COLOR="#000000">1.3 Implementacja</FONT></H2>
+<P><FONT COLOR="#000000">	<FONT FACE="LM Roman 12">System składa się
+z dwóch odrębnych modułów: klienta i serwera. </FONT></FONT>
+</P>
+<UL>
+	<UL>
+		<UL>
+			<H3 CLASS="western"><FONT COLOR="#000000">1.3.1 Serwer</FONT></H3>
+		</UL>
+	</UL>
+</UL>
+<P STYLE="margin-left: 1.25cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12">	Serwer
+po uruchomieniu zaczyna nasłuchiwać na połączenia od klientów.
+Po zaakceptowaniu połączenia sprawdza czy jest w stanie je obsłużyć
+(jeśli może jeszcze przyłączyć więcej klientów), i jeśli
+może, to tworzy nowy wątek dla klienta oraz wysyła mu informację
+o powodzeniu logowania lub niepowodzeniu. W komunikacji z klientem
+jest stroną bierną, tzn, że sam nie wysyła klientowi żadnych
+informacji pierwszy, realizuje tylko rozkazy klienta.</FONT></FONT></P>
+<UL>
+	<UL>
+		<UL>
+			<H3 CLASS="western" STYLE="font-style: normal"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=4>1.3.1
+			Klient</FONT></FONT></FONT></H3>
+		</UL>
+	</UL>
+</UL>
+<P STYLE="margin-left: 1.29cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>	Klient
+po uruchomieniu próbuje się połączyć z serwerem i jeśli
+połączenie zostanie nawiązane, oraz serwer odeśle pozytywną
+odpowiedź na logowanie, klient rozpoczyna w pętli nieskończonej na
+zmianę synchronizować swoje pliki lokalne z serwerem a potem prosi
+serwer o&nbsp;synchronizację plików z serwera. Klient w komunikacji
+z serwerem jest stroną aktywną, tzn, że to klient wysyła rozkazy
+do serwera.</FONT></FONT></FONT></P>
+<P><BR><BR>
+</P>
+<H1 CLASS="western"><FONT COLOR="#000000"><FONT SIZE=5>2. Technologie
+i biblioteki</FONT></FONT></H1>
+<H2 CLASS="western"><FONT COLOR="#000000"><FONT SIZE=4 STYLE="font-size: 16pt">2.1
+Komunikacja</FONT></FONT></H2>
+<P><FONT COLOR="#000000"><FONT SIZE=4 STYLE="font-size: 16pt">	</FONT><FONT FACE="LM Roman 12"><FONT SIZE=3>Komunikacja
+między serwerem a klientami odbywa się za pośrednictwem socketów
+z 	dziedziny internetu. Jest ona prowadzona w trybie
+połączeniowo-strumieniowym, wykorzystując protokół TCP/IP.
+Serwer jest aplikacją wielowątkową dlatego też dla każdego
+nowego połączenia tworzony jest osobny socket.</FONT></FONT></FONT></P>
+<H2 CLASS="western"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=4 STYLE="font-size: 16pt">2.2
+Wielowątkowość</FONT></FONT></FONT></H2>
+<P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>	Serwer
+obsługuje wiele połączeń jednocześnie, więc aby przebiegało to
+sprawnie, zastosowałem wielowątkowość, z pomocą biblioteki
+pthread. Każde połączenie jest obsługiwane w osobnym wykonującym
+się rozłącznie wątku, dzięki czemu synchronizacja plików z
+różnymi klientami może przebiegać jednocześnie.</FONT></FONT></FONT></P>
+<H2 CLASS="western"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=4 STYLE="font-size: 16pt">2.3
+Synchronizacja</FONT></FONT></FONT></H2>
+<P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>	Aby
+zapewnić spójność danych na serwerze, zastosowałem blokady
+systemowe z użyciem funkcji flock, którą to blokadę na wyłączność
+musi pobrać wątek który chce używać danego pliku.</FONT></FONT></FONT></P>
+<H1 CLASS="western"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=5>3.
+Szczegółowy opis procedur</FONT></FONT></FONT></H1>
+<H2 CLASS="western"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=4 STYLE="font-size: 16pt">3.1
+Serwer</FONT></FONT></FONT></H2>
+<H3 CLASS="western" STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=4>3.1.1
+prepare_data</FONT></FONT></FONT></H3>
+<P STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Zajmuje
+się przygotowaniem danych do działania serwera, m.in. inicjalizacją
+mutexów, tablic, stworzenie klucza danych własnych.</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT SIZE=4>3.1.2
+parse_arguments</FONT></FONT></H3>
+<P STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT SIZE=3><FONT FACE="LM Roman 12">Parsuje
+argumenty wywołania sprawdzając ich poprawność pod względem
+formatu (używając wyrażeń regularnych) oraz przygotowuje je do
+używania w programie.</FONT><FONT FACE="LM Roman 12"> W przypadku
+błędnego formatu zwraca błąd.</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT SIZE=4>3.1.3
+set_work_directory</FONT></FONT></H3>
+<P STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Ustawia
+katalog roboczy procesu wykonującego program serwera, jest to dla
+wygody możliwości używania ścieżek względnych plików.</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT SIZE=4>3.1.4
+create_and_connect_socket</FONT></FONT></H3>
+<P STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Zajmuje
+się stworzeniem oraz bindowaniem gniazda przeznaczonego do
+nasłuchiwania na nowe połączenia. Tworzone jest gniazdo
+strumieniowe protokołu INET, nieblokujące, zbindowane na port
+podany w argumencie wywołania.</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT SIZE=4>3.1.5
+create_connection</FONT></FONT></H3>
+<P STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Zajmuje
+się logowaniem klienta, który połączył się z serwerem. Jeśli 
+serwer może przyjąć jeszcze nowych klientów, procedura tworzy
+nowy wątek dla nowego klienta, jeśli nie może już przyjąć
+więcej połączeń lub nie udało się stworzyć wątku dla
+połączenia, odsyła informację o niemożliwości przyjęcia
+logowania.</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT SIZE=4>3.1.6
+connection_thread</FONT></FONT></H3>
+<P STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Wątek
+obsługi połączenia z klientem. Po uruchomieniu wysyła klientowi
+informację o powodzeniu logowania oraz zapisuje socket klienta w
+danych własnych wątku. Zajmuje się, w pętli nieskończonej,
+nasłuchiwaniem na rozkazy wydawane przez klienta oraz realizacją
+ich, aktualnie obsługuje rozkazy CHECK_FILE(porównanie wersji pliku
+klienta z serwerem), SYNC(wysyłanie listy plików z serwera do
+klienta), TEST_CONNECTION, LOGOUT.</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT SIZE=4>3.1.7
+check_file</FONT></FONT></H3>
+<P STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Zajmuje
+się sprawdzeniem wersji pliku wskazanego przez klienta. Odbiera od
+klienta nazwę pliku oraz datę ostatniej modyfikacji, a następnie
+porównuje wersję klienta (datę modyfikacji) z wersją na serwerze
+oraz podejmuje decyzję czy:</FONT></FONT></FONT></P>
+<OL>
+	<OL>
+		<OL>
+			<LI><P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>wysłać
+			klientowi informację, że klient ma starą wersję i&nbsp;że za
+			chwilę nastąpi wysyłanie pliku od serwera do klienta, żeby
+			klient nastawił się na odbieranie pliku</FONT></FONT></FONT></P>
+			<LI><P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>wysłać
+			klientowi informację, że klient ma nowszą wersję i że
+			powinien wysłać teraz ten plik do serwera, serwer w tej sytuacji
+			zaczyna czytać z gniazda plik, który klient powinien wysyłać</FONT></FONT></FONT></P>
+			<LI><P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>wysłać
+			klientowi informację, że ten plik został usunięty, że klient
+			powinien go usunąć z lokalnego folderu.</FONT></FONT></FONT></P>
+			<P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Na
+			czas operacji na pliku jest on blokowany funkcją flock.</FONT></FONT></FONT></P>
+		</OL>
+	</OL>
+</OL>
+<H3 CLASS="western" STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT SIZE=4>3.1.8
+synchronize_with_client</FONT></FONT></H3>
+<P STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Ma
+za zadanie wysyłanie listy plików do klienta sterowane przez
+klienta, który po odebraniu ścieżki decyduje, czy pominąć
+i&nbsp;przejść do kolejnego pliku, czy wysłać dany plik
+klientowi, czy zaznaczyć go, jako usunięty.</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT SIZE=4>3.1.9
+get_file</FONT></FONT></H3>
+<P STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Ma
+za zadanie odczytać najnowszą przechowywaną na serwerze wersję
+pliku danego w argumencie, zwraca 0 jeśli takiego pliku nie ma, i
+czas w formacie time_t jeśli plik istnieje oraz informację, czy
+dany plik został usunięty, wtedy czas określa datę
+zarejestrowania usunięcia.</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT SIZE=4>3.1.10
+get_file</FONT></FONT></H3>
+<P STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Wysyła
+informację do klienta o tym, że powinien rozpocząć wysyłanie
+pliku , następnie odbiera plik z socketu (używając receive_file) i
+zapisuje go pod ścieżką daną w argumencie, pod wersją daną w
+argumencie. Po odebraniu pliku aktualizuje informację w plikach
+bazodanowych o najnowszej wersji.</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT SIZE=4>3.1.11
+give_file</FONT></FONT></H3>
+<P STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Zajmuje
+się samym wysłaniem pliku do klienta. Wysyła mu informację, że
+powinien zacząć odbierać plik, następnie wysyła ten plik
+(używając send_file).</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT SIZE=4>3.1.12
+receive_file</FONT></FONT></H3>
+<P STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Zajmuje
+się samym odbieraniem, za pomocą bufora, pliku przez socket i
+zapisywaniem na dysk.</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT SIZE=4>3.1.13
+send_file</FONT></FONT></H3>
+<P STYLE="margin-left: 2.44cm; text-indent: 1.06cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Zajmuje
+się samym wysyłaniem, za pomocą bufora, pliku przez socket.</FONT></FONT></FONT></P>
+<H2 CLASS="western"></H2>
+<H2 CLASS="western"><FONT COLOR="#000000"><FONT SIZE=4 STYLE="font-size: 16pt">3.2
+Klient</FONT></FONT></H2>
+<H3 CLASS="western" STYLE="margin-left: 2.47cm; text-indent: 0.76cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=4>3.2.1
+prepare_data</FONT></FONT></FONT></H3>
+<P STYLE="margin-left: 2.47cm; text-indent: 0.76cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Zajmuje
+się przygotowaniem danych do działania serwera, m.in. ustawia
+wartości zmiennej sterującą nieskończoną pętlą.</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.47cm; text-indent: 0.76cm"><FONT COLOR="#000000"><FONT SIZE=4>3.2.2
+parse_arguments</FONT></FONT></H3>
+<P STYLE="margin-left: 2.47cm; text-indent: 0.76cm"><FONT COLOR="#000000"><FONT SIZE=3><FONT FACE="LM Roman 12">Prasuje
+argumenty wywołania sprawdzając ich poprawność pod względem
+formatu (używając wyrażeń regularnych) oraz przygotowuje je do
+używania w programie.</FONT><FONT FACE="LM Roman 12"> W przypadku
+błędnego formatu zwraca błąd.</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.47cm; text-indent: 0.76cm"><FONT COLOR="#000000"><FONT SIZE=4>3.2.3
+set_work_directory</FONT></FONT></H3>
+<P STYLE="margin-left: 2.47cm; text-indent: 0.76cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Ustawia
+katalog roboczy procesu wykonującego program serwera, jest to dla
+wygody możliwości używania ścieżek względnych plików.</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.47cm; text-indent: 0.76cm"><FONT COLOR="#000000"><FONT SIZE=4>3.2.4
+create_and_connect_socket</FONT></FONT></H3>
+<P STYLE="margin-left: 2.47cm; text-indent: 0.76cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Zajmuje
+się stworzeniem oraz nawiązaniem połączenia i&nbsp;zalogowaniem
+się klienta do serwera, jeśli serwer po nawiązaniu połączenia
+zwróci stałą CONNECTION_OK, funkcja wraca deskyptor&nbsp;-&nbsp;socket,
+a jeśli nie udało się nawiązać połączenia, zwracana jest
+wartość -1.</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.47cm; text-indent: 0.76cm"><FONT COLOR="#000000"><FONT SIZE=4>3.2.6
+synchronize</FONT></FONT></H3>
+<P STYLE="margin-left: 2.47cm; text-indent: 0.76cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Procedura
+ma za zadanie przeprowadzić synchronizację plików z&nbsp;serwerem,
+używa do tego dwóch procedur:</FONT></FONT></FONT></P>
+<P STYLE="margin-left: 2.47cm"><FONT COLOR="#000000">–
+<FONT FACE="LM Roman 12"><FONT SIZE=3>synchronize_and_send_local_directory</FONT></FONT></FONT></P>
+<P STYLE="margin-left: 2.47cm"><FONT COLOR="#000000">–
+<FONT FACE="LM Roman 12"><FONT SIZE=3>synchronize_and_download_virtual_directory</FONT></FONT></FONT></P>
+<H3 CLASS="western" STYLE="margin-left: 2.47cm; text-indent: 0.76cm"><FONT COLOR="#000000"><FONT SIZE=4>3.2.6
+synchronize_and_send_local_directory</FONT></FONT></H3>
+<P STYLE="margin-left: 2.47cm; text-indent: 0.76cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Procedura
+używa bibliotecznej procedury ftw() do zbadania całego drzewa
+katalogów od aktualnego roboczego. Jako argument ftw jest użyta
+procedura look, która każdy regularny plik synchronizuje z serwerem
+w sposób:</FONT></FONT></FONT></P>
+<OL>
+	<OL>
+		<LI><P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>wysłanie
+		informacji o chęci sprawdzenia pliku wraz z&nbsp;długością
+		ścieżki</FONT></FONT></FONT></P>
+		<LI><P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>wysłanie
+		ścieżki pliku</FONT></FONT></FONT></P>
+		<LI><P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>odebranie
+		informacji, czy wysłać plik (i rozpoczęcie wysyłania), odebrać
+		plik (i rozpoczęcie odbierania), usunąć (i&nbsp;usunięcie
+		pliku). </FONT></FONT></FONT>
+		</P>
+	</OL>
+</OL>
+<H3 CLASS="western" STYLE="margin-left: 2.47cm; text-indent: 0.76cm"><FONT COLOR="#000000"><FONT SIZE=4>3.2.7
+synchronize_and_download_virtual_directory</FONT></FONT></H3>
+<P STYLE="margin-left: 2.47cm; text-indent: 0.76cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>Ma
+za zadanie przeprowadzić synchronizację z wirtualnym folderem, jego
+zadaniem jest tylko pobieranie plików, które nie istnieją w
+lokalnym folderze (te istniejące zostały zsynchronizowane
+procedurze synchronize_and_send_local_directory) wysyła informację
+do serwera, że chce przeprowadzić tą synchronizację i&nbsp;przestawia
+się w tryb odbierania informacji, tzn czeka na dodatnią liczbę od
+serwera (długość ścieżki do pobrania), następnie pobiera
+ścieżkę od serwera, sprawdza, czy taki plik istnieje na maszynie
+lokalnej, jeśli istnieje, odsyła serwerowi informację, żeby
+pominął ten plik, jeśli nie istnieje, to wysyła serwerowi prośbę
+o wysłanie wersji pliku, następnie sprawdza, czy ta wersja jest
+nowsza od czasu ostatniej synchronizacji i jeśli jest, to znaczy, że
+plik został dodany do folderu i następuje pobieranie pliku, a jeśli
+serwer ma starszą wersję, to to znaczy, że plik został usunięty,
+klient w takiej sytuacji wysyła informację serwerowi, że plik
+został usunięty.</FONT></FONT></FONT></P>
+<H1 CLASS="western"></H1>
+<H1 CLASS="western"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=5>4.
+Uruchomienie</FONT></FONT></FONT></H1>
+<P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>	Programy
+powinny być uruchamiane z następującymi parametrami:<BR>	Serwer:</FONT></FONT></FONT></P>
+<P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>		port
+katalog</FONT></FONT></FONT></P>
+<P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>	gdzie:</FONT></FONT></FONT></P>
+<P STYLE="margin-left: 2.41cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>port
+– liczba, port na którym serwer będzie nasłuchiwał na nowe
+połączenia klienckie</FONT></FONT></FONT></P>
+<P STYLE="margin-left: 2.41cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>katalog
+– katalog który ma być korzeniem drzewa katalogów, które ma być
+synchronizowane</FONT></FONT></FONT></P>
+<P><BR><BR>
+</P>
+<P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>	Klient:</FONT></FONT></FONT></P>
+<P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>		port
+host katalog</FONT></FONT></FONT></P>
+<P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>	gdzie:</FONT></FONT></FONT></P>
+<P STYLE="margin-left: 2.38cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>port
+– port na którym serwer nasłuchuje na logowania klientów</FONT></FONT></FONT></P>
+<P STYLE="margin-left: 2.38cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>host
+– nazwa hosta serwera np. „localhost”, „student.agh.edu.pl”</FONT></FONT></FONT></P>
+<P STYLE="margin-left: 2.38cm"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3>katalog
+– katalog, który ma być korzeniem drzewa katalogów, które
+będzie synchronizowane</FONT></FONT></FONT></P>
+<P><BR><BR>
+</P>
+<H1 CLASS="western"><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=5>5.
+Bibliografia</FONT></FONT></FONT></H1>
+<UL>
+	<LI><P><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3><SPAN STYLE="font-weight: normal">W.
+	Richard Stevens - </SPAN></FONT></FONT></FONT><STRONG><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3><SPAN STYLE="font-weight: normal">Programowanie
+	w środowisku systemu Unix</SPAN></FONT></FONT></FONT></STRONG></P>
+	<LI><P><STRONG><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3><SPAN STYLE="font-weight: normal">Linux
+	Manual</SPAN></FONT></FONT></FONT></STRONG></P>
+	<LI><P><STRONG><FONT COLOR="#000000"><FONT FACE="LM Roman 12"><FONT SIZE=3><SPAN STYLE="font-weight: normal">Prezentacje
+	studentów Informatyki rocznika 2011r. z przedmiotu Systemy
+	Operacyjne</SPAN></FONT></FONT></FONT></STRONG></P>
+</UL>
+</BODY>
+</HTML>
