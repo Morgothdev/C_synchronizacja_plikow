@@ -1,4 +1,4 @@
-Projekt na jeden z przedmiotów.
+Projekt na jeden z przedmiotów realizowanych podczas studiów.
 Napisany w całości w języku C.
 Jest to aplikacja mająca na celu synchronizację plików między różnymi urządzeniami, na których uruchomiona jest apliakcja kliencka.
 Komunikacja jest zrealizowana z zastosowaniem serwera, który przechowuje archiwum zmian plików (tak, że możliwe może być cofanie zmian plików do danej wersji), z kórym komunikują się przez TCP aplikacje klienckie.
